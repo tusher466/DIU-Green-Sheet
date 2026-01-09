@@ -1,7 +1,6 @@
 //Problem: https://judge.beecrowd.com/en/problems/view/1094
 
 #include <bits/stdc++.h>
-
 using namespace std;
 
 int main() {
